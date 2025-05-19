@@ -1,0 +1,39 @@
+@import 'common';
+
+*{margin: 0; padding: 0; box-sizing: border-box; transition: .25s;}
+
+$header-bg: #F5E4D1;
+$nav-hover: #93705C;
+
+body{ background: #F6F3EE;  font-family: 'Poppins', sans-serif; color: #333; line-height: 1.6;}
+
+header {
+    
+    background-color: $header-bg;
+
+    nav{
+        padding: 1rem 0;
+        border-bottom: 1px solid #B79A86;
+
+        [class*="container"]{ @include center;}
+
+        ul{
+            @include center; margin: 0; padding: 0; list-style: none;
+            li{
+                a{
+                    color: #B79A86;
+                    text-decoration: none;
+                    &:hover{
+                        color: $nav-hover;
+                    }
+                }
+            }
+        }
+
+        .nav-right{background-color: $nav-hover;}
+
+         
+    }
+
+
+}
