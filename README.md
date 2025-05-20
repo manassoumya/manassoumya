@@ -2,7 +2,8 @@
 ## Hi 👋 Manas
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manassoumya&theme=kimbie_dark)](https://github.com/manassoumya/github-profile-trophy)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manassoumya)](https://github.com/manassoumya/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manassoumya&show_icons=true&theme=radical)
 
 
 <!--
