@@ -2,6 +2,7 @@
 ## Hi 👋 Manas
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manassoumya&theme=kimbie_dark)](https://github.com/manassoumya/github-profile-trophy)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
